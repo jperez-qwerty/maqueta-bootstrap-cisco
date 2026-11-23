@@ -25,4 +25,4 @@ Abre `index.html` en el navegador (necesita conexión a Internet por los CDN de 
 
 ## Autor
 
-_Tu nombre_
+Jose Pérez
